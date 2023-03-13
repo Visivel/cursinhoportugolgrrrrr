@@ -1,7 +1,7 @@
-/*EXERCÍCIO 5- Crie um programa que leia o nome e o salário de um
-funcionário, mostrando no final uma mensagem. Ex: Nome do
-Funcionário: Maria do Carmo Salário: 1850,45 O funcionário Maria
-do Carmo tem um salário de R$1850,45 em Junho*/
+/*EXERCÃCIO 5- Crie um programa que leia o nome e o salÃ¡rio de um
+funcionÃ¡rio, mostrando no final uma mensagem. Ex: Nome do
+FuncionÃ¡rio: Maria do Carmo SalÃ¡rio: 1850,45 O funcionÃ¡rio Maria
+do Carmo tem um salÃ¡rio de R$1850,45 em Junho*/
 
 // Autor: Mikael
 // EU VOU TOMAR DOX POR VAZAR MEU NOME!!
