@@ -1,5 +1,5 @@
-/*EXERCÍCIO 10- Crie um programa que leia o número de dias trabalhados
-em um mês e mostre o salário de um funcionário, sabendo que ele
+/*EXERCÃCIO 10- Crie um programa que leia o nÃºmero de dias trabalhados
+em um mÃªs e mostre o salÃ¡rio de um funcionÃ¡rio, sabendo que ele
 trabalha 8 horas por dia e ganha R$25 por hora trabalhada.*/
 
 // Autor: Mikael
