@@ -2,7 +2,7 @@
 mostre o seu PREÇO PROMOCIONAL, com 5% de desconto*/
 
 // Autor: Mikael
-// VOU TOMAR DOX POR VAZAR MEU NOME!!
+// EU VOU TOMAR DOX POR VAZAR MEU NOME!!
 
 programa {
   funcao inicio() {
