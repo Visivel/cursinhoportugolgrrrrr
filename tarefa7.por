@@ -5,7 +5,6 @@ mostre o seu PREÇO PROMOCIONAL, com 5% de desconto*/
 // VOU TOMAR DOX POR VAZAR MEU NOME!!
 
 programa {
-  inclua biblioteca Matematica
   funcao inicio() {
     real valor
     real produto
