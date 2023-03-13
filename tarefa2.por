@@ -1,5 +1,5 @@
-/*EXERCÕCIO 2- FaÁa um algoritmo resultado da soma de duas notas.
-que receba dois n˙meros e exiba o resultado.*/
+/*EXERC√çCIO 2- Fa√ßa um algoritmo resultado da soma de duas notas.
+que receba dois n√∫meros e exiba o resultado.*/
 
 // Autor: Mikael
 // EU VOU TOMAR DOX POR VAZAR MEU NOME!!
