@@ -3,7 +3,7 @@ calcule e mostre o seu novo salário, com 15% de aumento.
 */
 
 // Autor: Mikael
-// VOU TOMAR DOX POR VAZAR MEU NOME!!
+// EU VOU TOMAR DOX POR VAZAR MEU NOME!!
 
 programa {
   funcao inicio() {
