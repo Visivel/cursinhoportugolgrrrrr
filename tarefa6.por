@@ -1,5 +1,5 @@
-/*EXERCÍCIO 6- Faça um algoritmo que leia quanto dinheiro uma
-pessoa tem na carteira (em R$) e mostre quantos dólares ela pode
+/*EXERCÃCIO 6- FaÃ§a um algoritmo que leia quanto dinheiro uma
+pessoa tem na carteira (em R$) e mostre quantos dÃ³lares ela pode
 comprar. Considere US$1,00 = R$5,35*/
 
 // Autor: Mikael
@@ -16,6 +16,6 @@ programa {
   escreva("Quantos reais voce tem? \n--> ")
   leia(reais)
   dolar = reais/5.35
-  escreva(Matematica.arredondar(dolar,1))
+  escreva("** Voce conseguiria comprar apenas ",Matematica.arredondar(dolar,1)," dolares. **")
   }
 }
