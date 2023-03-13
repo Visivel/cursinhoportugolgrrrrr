@@ -9,7 +9,7 @@ do Carmo tem um salário de R$1850,45 em Junho*/
 programa {
   funcao inicio() {
     cadeia nome
-    cadeia salario
+    real salario
     escreva("Qual seu nome? ")
     leia(nome)
     escreva("Qual seu salario? ")
