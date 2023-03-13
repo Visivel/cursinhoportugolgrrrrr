@@ -1,5 +1,5 @@
-/*EXERCÕCIO 8- FaÁa um algoritmo que leia o sal·rio de um funcion·rio,
-calcule e mostre o seu novo sal·rio, com 15% de aumento.
+/*EXERC√çCIO 8- Fa√ßa um algoritmo que leia o sal√°rio de um funcion√°rio,
+calcule e mostre o seu novo sal√°rio, com 15% de aumento.
 */
 
 // Autor: Mikael
