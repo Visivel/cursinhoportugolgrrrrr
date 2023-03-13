@@ -1,6 +1,6 @@
-/*EXERCÕCIO 4- FaÁa um programa que leia o nome de uma pessoa e
-mostre uma mensagem de boasvindas para ela: Ex: Qual È o seu
-nome? Jo„o da Silva Ol· Jo„o da Silva, È um prazer te conhecer!*/
+/*EXERC√çCIO 4- Fa√ßa um programa que leia o nome de uma pessoa e
+mostre uma mensagem de boasvindas para ela: Ex: Qual √© o seu
+nome? Jo√£o da Silva Ol√° Jo√£o da Silva, √© um prazer te conhecer!*/
 
 // Autor: Mikael
 // EU VOU TOMAR DOX POR VAZAR MEU NOME!!
