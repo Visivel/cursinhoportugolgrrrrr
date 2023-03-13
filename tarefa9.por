@@ -16,7 +16,7 @@ programa {
     escreva("Quantos KM voce percorreu durante o uso?\n--> ")
     leia(km)
     valor = dia*90+km*0.20
-    escreva(Matematica.arredondar(valor,3))
+    escreva("Voce tera que pagar ",Matematica.arredondar(valor,3))
 
 
     
