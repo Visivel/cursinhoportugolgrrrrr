@@ -1,7 +1,7 @@
-/*EXERCÕCIO 9- A locadora de carros precisa da sua ajuda para cobrar seus
-serviÁos. Escreva um programa que pergunte a quantidade de Km
+/*EXERC√çCIO 9- A locadora de carros precisa da sua ajuda para cobrar seus
+servi√ßos. Escreva um programa que pergunte a quantidade de Km
 percorridos por um carro alugado e a quantidade de dias pelos quais ele
-foi alugado. Calcule o preÁo total a pagar, sabendo que o carro custa R$90
+foi alugado. Calcule o pre√ßo total a pagar, sabendo que o carro custa R$90
 por dia e R$0,20 por Km rodado.*/
 
 // Autor: Mikael
