@@ -1,8 +1,12 @@
 /* 
-
+EXERCÍCIO 1- Contrua um algoritmo que tenha uma váriavel
+nascimento com o ano de nascimento e apresente na tela
+quantos anos a pessoa fará em 2025 (desconsidere o mês de
+aniversario).
 */
 
 // Autor: Mikael
+// VOU TOMAR DOX POR VAZAR MEU NOME!!!
 
 
 programa {
