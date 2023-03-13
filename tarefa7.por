@@ -1,5 +1,5 @@
-/*EXERCÕCIO 7- Crie um programa que leia o preÁo de um produto, calcule e
-mostre o seu PRE«O PROMOCIONAL, com 5% de desconto*/
+/*EXERC√çCIO 7- Crie um programa que leia o pre√ßo de um produto, calcule e
+mostre o seu PRE√áO PROMOCIONAL, com 5% de desconto*/
 
 // Autor: Mikael
 // VOU TOMAR DOX POR VAZAR MEU NOME!!
