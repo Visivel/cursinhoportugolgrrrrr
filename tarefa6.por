@@ -16,6 +16,6 @@ programa {
   escreva("Quantos reais voce tem? \n--> ")
   leia(reais)
   dolar = reais/5.35
-  escreva("** Voce conseguiria comprar apenas ",Matematica.arredondar(dolar,1)," dolares. **")
+  escreva("**Ola ",nome,", Voce conseguiria comprar apenas ",Matematica.arredondar(dolar,1)," dolares. **")
   }
 }
